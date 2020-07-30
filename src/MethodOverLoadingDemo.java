@@ -18,8 +18,6 @@ public class MethodOverLoadingDemo {
         System.out.println(add(no1, no3));
         System.out.println(add(no1, no2, 40));
 
-        System.out.println("abc" + 10);
-
 
     }
 
